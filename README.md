@@ -1,12 +1,8 @@
 # React Basic Typescript Redux Starter
 
 # package.json scripts
-- `start: dev` starts the server with a development environment
-- `start: prod` starts the server with a production environment
-- `build: dev` compiles the application with a development environment
-- `build: prod` compiles the application with a production environment
-- `lint` tests the code using eslint
-- `lint: fix` tries to correct lint errors
+- `start:dev` starts the server with a development environment
+- `build` compiles the application with a development environment
 
 ## Presentation
 This project is a collection of all the experience practiced with react and other frameworks like angular, now I come to bring the community this experience so that it helps people to organize their personal or professional projects. I will also be grateful for the evolution of it, so I am making available about a free MIT license
